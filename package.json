@@ -1,6 +1,6 @@
 {
   "name": "browserify-optional",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A browserify transform that allows optional dependencies in try..catch blocks",
   "main": "index.js",
   "scripts": {
